@@ -1,5 +1,12 @@
 <result>
   <list>
+    <corp_code>00126380</corp_code>
+    <corp_name>삼성전자</corp_name>
+    <corp_eng_name>SAMSUNG ELECTRONICS CO,.LTD</corp_eng_name>
+    <stock_code>005930</stock_code>
+    <modify_date>20250326</modify_date>
+  </list>
+  <list>
     <corp_code>00260985</corp_code>
     <corp_name>한빛네트</corp_name>
     <corp_eng_name>HanbitNet, Inc.</corp_eng_name>
@@ -18596,13 +18603,6 @@
     <corp_name>유비케어</corp_name>
     <corp_eng_name>UBCARE CO., LTD.</corp_eng_name>
     <stock_code>032620</stock_code>
-    <modify_date>20250326</modify_date>
-  </list>
-  <list>
-    <corp_code>00126380</corp_code>
-    <corp_name>삼성전자</corp_name>
-    <corp_eng_name>SAMSUNG ELECTRONICS CO,.LTD</corp_eng_name>
-    <stock_code>005930</stock_code>
     <modify_date>20250326</modify_date>
   </list>
   <list>
