@@ -6,22 +6,20 @@ React로 구현하고, 보기 좋은 차트로 표현하고자 합니다.”
 
 2. 시각화
 이제 오픈다트에서 정보를 읽어와서 시각화 해보자
-- api key: (아래 참고)
+- opendart api key: (아래 참고)
 - 단일회사 주요계정 개발가이드 설명
 https://opendart.fss.or.kr/guide/detail.do?apiGrpCd=DS003&apiId=2019016 사이트에 있는 내용 (아래 참고)
 
 3. AI 분석
 gemini api 키 활용해서 재무 정보를 누구나 이해할 수 있게 쉽게 분석해줘
-- gemini api: (아래 참고)
 - 모델: gemini-2.0-flash 또는 gemini-2.5-flash
 
 주의사항
 - API 키는 별도 파일로 분리 관리하고, 배포 시에는 예외 처리 적용
 - 데모 데이터는 사용하지 않으며, 반드시 실제 데이터로 처리
 - Vercel 배포 환경을 고려하여 최적의 기술 스택 선택
-- 단계별 개발 진행
 
-[별도로 붙여 넣을 내용]
-- api key: 
-- gemini api: 
-- 단일회사 주요계정 개발가이드:
+[추가로 입력해야 할 설정값]
+- opendart api key: (직접 입력)
+- gemini api: (직업 입력)
+- 단일회사 주요계정 개발가이드: (직업 입력)
