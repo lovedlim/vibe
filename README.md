@@ -7,8 +7,8 @@
 
 
 ## 환경 변수 추가 목록 (기본 경로)
-C:\Program Files\nodejs
-C:\Program Files\GitHub CLI
+- C:\Program Files\nodejs
+- C:\Program Files\GitHub CLI
 
 ## 명령프롬프트 / 파워쉘 권한 문제
 Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
