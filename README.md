@@ -11,4 +11,4 @@
 - C:\Program Files\GitHub CLI
 
 ## 명령프롬프트 / 파워쉘 권한 문제
-Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+- Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
