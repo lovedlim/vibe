@@ -15,8 +15,20 @@
 
 
 ## 저자와 편집자가 마주한 11가지 오류 상황
-2. Path
+2. Path (기본 위치)
 ~~~
 C:\Program Files\nodejs
 C:\Program Files\GitHub CLI
+~~~
+
+3. 로컬 보완/권한 문제
+~~~
+Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+~~~
+
+10. LLM(제미나이)
+~~~
+사용 가능한 무료 모델
+- gemini-2.5-flash
+- gemini-2.0-flash
 ~~~
