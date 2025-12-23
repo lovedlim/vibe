@@ -21,13 +21,17 @@ UI는 밝은 톤으로 제작
 
 
 ## 7.4.3 깃허브 CLI로그인
-~~~
-만약
 
+1. 만약 다음과 같이 나온다면
+<img width="985" height="355" alt="스크린샷 2025-12-23 160151" src="https://github.com/user-attachments/assets/fc4ad26b-98a9-4364-8c3e-4fca267368f7" />
+~~~
+- 브라우저에서 https://github.com/login/device 접속
+- 로그인 후
+- 화면에 나와있는 키 값 "8D04-0564"입력
 ~~~
 
+2. 수동으로 깃허브 CLI 로그인 방법
 ~~~
-수동으로 깃허브 CLI 로그인 방법
 - 터미널 창 열기 (Ctrl + `) `는 백틱, ESC 아래 버튼
 - "+" 으로 새 터미널 열기
 - gh auth login 입력
