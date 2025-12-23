@@ -12,3 +12,11 @@
 
 ## 명령프롬프트 / 파워쉘 권한 문제
 - Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+
+## 저자와 편집자가 마주한 11가지 오류 상황
+2. Path
+~~~
+C:\Program Files\nodejs
+C:\Program Files\GitHub CLI
+~~~
