@@ -24,6 +24,7 @@ UI는 밝은 톤으로 제작
 
 1. 만약 다음과 같이 나온다면
 <img width="985" height="355" alt="스크린샷 2025-12-23 160151" src="https://github.com/user-attachments/assets/fc4ad26b-98a9-4364-8c3e-4fca267368f7" />
+
 ~~~
 - 브라우저에서 https://github.com/login/device 접속
 - 로그인 후
