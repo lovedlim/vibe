@@ -1,8 +1,8 @@
-# 직장인을 위한 바이브코딩 with 커서
+# 한 걸음 앞선 일잘러가 지금 꼭 알아야 할 바이브코딩 with 커서
+![unnamed](https://github.com/user-attachments/assets/473457f2-8e41-44d4-adcb-9d2391864694)
 
 ## 해당 챕터(chapter) 폴더를 클릭해 주세요:) 
 - 긴 입력 프롬프트를 복사할 수 있습니다. 
-
 
 ## 저자와 편집자가 마주한 11가지 오류 상황
 2. 환경 변수 추가 목록 (기본 경로)
@@ -20,6 +20,6 @@ Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
 ~~~
 사용 가능한 무료 모델
 - gemini-2.5-flash
-- gemini-2.0-flash (중단)
+- gemini-2.0-flash (2026년 3월 31일 중단)
 - Gemini 2.5 Pro, Gemini 3.0 Pro은 엄격한 일일 또는 분당 사용량 제한이 큼
 ~~~
