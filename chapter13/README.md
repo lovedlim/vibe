@@ -8,3 +8,6 @@
 •	Production URL: (직접 입력)
 ~~~
 
+Production URL 샘플
+- https://유저아이디.app.n8n.cloud/webhook/dcd6d22f-d21d-4c7500000 
+
