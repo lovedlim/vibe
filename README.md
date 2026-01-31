@@ -1,5 +1,5 @@
 # 한 걸음 앞선 일잘러가 지금 꼭 알아야 할 바이브코딩 with 커서
-<img src="attachment:dc6898d9-29eb-413f-8455-1cb94bb2187b.png" width="50%">
+<img src="https://github.com/user-attachments/assets/473457f2-8e41-44d4-adcb-9d2391864694" width="50%">
 
 ## 해당 챕터(chapter) 폴더를 클릭해 주세요:) 
 - 긴 입력 프롬프트를 복사할 수 있습니다. 
