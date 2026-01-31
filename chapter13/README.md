@@ -9,3 +9,12 @@
 ~~~
 
 
+~~~
+# AI Agent
+{{ $json.body.message }}
+~~~
+
+~~~
+# Simple Memony
+{{ $json.body.sessionId }}
+~~~
