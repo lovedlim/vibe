@@ -9,10 +9,13 @@
 ~~~
 
 
+### 13.3 n8n으로 챗봇 워크플로우 만들기
 ~~~
 # AI Agent
 {{ $json.body.message }}
 ~~~
+
+### 13.6 메모리 기능 추가
 
 ~~~
 # Simple Memony
